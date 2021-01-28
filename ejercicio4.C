@@ -9,7 +9,7 @@ int main() {
     p = &x;
     printf("el valor de p es %d \n", *p);
     y = *p + 10;
-    printf("el valor de y es  %d", y)
+    printf("el valor de y es  %d", y);
     return 0;
 }
   
